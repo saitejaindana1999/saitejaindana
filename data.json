@@ -1,0 +1,52 @@
+{
+  "basic":{
+"image":"teja.jpg",
+"name":"Saiteja Indana",
+"email":"saitejaindana1999@gmail.com",
+"number":"8074288996",
+"address":"Samalkot"
+},
+"career":{
+  "objective":"to be well settled in foreign"
+},
+"education":[
+  {
+    "institute":"pragati",
+    "degree":"Btech",
+    "passout":"2021"
+  },
+  {
+    "institute":"narayana junior college",
+    "degree":"intermediate",
+    "passout":"2017"
+  },
+  {
+    "institute":"pragati little public school",
+    "degree":"SSC",
+    "passout":"2015"
+  }
+],
+"skills":[
+  {
+    "info":"languages",
+    "details":["C","C++","Java"]
+  },
+  {
+    "info":"operating systems",
+    "details":["oracle","mysql","tinydb"]
+  },
+
+  {
+    "info":"Acheivements",
+    "details":["internships","nptel certification","workshop on javascript"]
+
+  },
+  {
+    "info":"Databases",
+    "details":["Internships","Nptel certification","workshops on javascript"]
+  }
+
+]
+
+
+}
